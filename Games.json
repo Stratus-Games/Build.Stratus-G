@@ -32,7 +32,7 @@
     "cover": "Games/20 Minutes Till Dawn/index.jpg",
     "html": "Games/20 Minutes Till Dawn/index.html",
     "downloadable": "Yes",
-    "download": "https://raw.githubusercontent.com/Stratus-Games/Build.Stratus-G/refs/heads/main/Games/20%20Minutes%20Till%20Dawn/Download.json"
+    "download": "/Games/20 Minutes Till Dawn/Download.json"
   },
   {
     "name": "Tanks 3D",
@@ -40,5 +40,12 @@
     "html": "Games/Tanks 3D/index.html",
     "downloadable": "Yes",
     "download": "Games/Tanks 3D/Download.json"
+  },
+  {
+    "name": "5B",
+    "cover": "Games/5B/index.png",
+    "html": "Games/5B/index.html",
+    "downloadable": "Yes",
+    "download": "Games/5B/Download.json"
   }
 ]
