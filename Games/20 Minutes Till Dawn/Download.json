@@ -1,0 +1,66 @@
+[
+  {
+    "name": "20 Minutes Till Dawn",
+    "cover": "Games/20 Minutes Till Dawn/index.jpg",
+    "start": "index.html",
+    "amount": "56MB",
+    "data": [
+      {
+        "path": "./",
+        "asset": "Games/20 Minutes Till Dawn/index.html"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/20 Minutes Till Dawn/Build/20minutes.data.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/20 Minutes Till Dawn/Build/20minutes.data.part2"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/20 Minutes Till Dawn/Build/20minutes.framework.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/20 Minutes Till Dawn/Build/20minutes.loader.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/20 Minutes Till Dawn/Build/20minutes.wasm.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/20 Minutes Till Dawn/Build/20minutes.wasm.part2"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/20 Minutes Till Dawn/TemplateData/progress-bar-empty-dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/20 Minutes Till Dawn/TemplateData/progress-bar-empty-light.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/20 Minutes Till Dawn/TemplateData/progress-bar-full-dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/20 Minutes Till Dawn/TemplateData/progress-bar-full-light.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/20 Minutes Till Dawn/TemplateData/style.css"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/20 Minutes Till Dawn/TemplateData/unity-logo-dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/20 Minutes Till Dawn/TemplateData/unity-logo-light.png"
+      }
+    ]
+  }
+]
