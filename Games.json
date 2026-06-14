@@ -2,6 +2,15 @@
   {
     "name": "1 on 1 Soccer",
     "cover": "Games/1 on 1 Soccer/index.png",
-    "html": "Games/1 on 1 Soccer/index.html"
+    "html": "Games/1 on 1 Soccer/index.html",
+    "downloadable": "Yes",
+    "download": "Games/1 on 1 Soccer/Download.json"
+  },
+  {
+    "name": "10 Bullets",
+    "cover": "Games/10 Bullets/index.png",
+    "html": "Games/10 Bullets/index.html",
+    "downloadable": "Yes",
+    "download": "Games/10 Bullets/Download.json"
   }
 ]
