@@ -1,0 +1,62 @@
+[
+  {
+    "name": "8 Ball Pool",
+    "cover": "Games/8 Ball Pool/index.png",
+    "start": "index1.html",
+    "amount": "28MB",
+    "data": [
+      {
+        "path": "./",
+        "asset": "Games/8 Ball Pool/index1.html"
+      },
+      {
+        "path": "./",
+        "asset": "Games/8 Ball Pool/game.swf"
+      },
+      {
+        "path": "./R/",
+        "asset": "R/8be78cd3c38fbcb61f10.wasm"
+      },
+      {
+        "path": "./R/",
+        "asset": "R/LICENSE_APACHE"
+      },
+      {
+        "path": "./R/",
+        "asset": "R/LICENSE_MIT"
+      },
+      {
+        "path": "./R/",
+        "asset": "R/c9f7a016a10a9ec9feb1.wasm"
+      },
+      {
+        "path": "./R/",
+        "asset": "R/core.ruffle.62a422657140b899b4f1.js"
+      },
+      {
+        "path": "./R/",
+        "asset": "R/core.ruffle.62a422657140b899b4f1.js.map"
+      },
+      {
+        "path": "./R/",
+        "asset": "R/core.ruffle.6c01bf34b16fe6aa11db.js",
+      },
+      {
+        "path": "./R/",
+        "asset": "R/core.ruffle.6c01bf34b16fe6aa11db.js.map"
+      },
+      {
+        "path": "./R/",
+        "asset": "R/package.json"
+      },
+      {
+        "path": "./R/",
+        "asset": "R/ruffle.js"
+      },
+      {
+        "path": "./R/",
+        "asset": "R/ruffle.js.map"
+      }
+    ]
+  }
+]
