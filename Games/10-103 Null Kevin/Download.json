@@ -3,6 +3,7 @@
     "name": "10-103 Null Kevin",
     "cover": "Games/10-103 Null Kevin/icon.png",
     "start": "index.html",
+    "amount": "20MB",
     "data": [
       {
         "path": "./",
