@@ -1,10 +1,14 @@
 [
   {
     "name": "1 on 1 Soccer",
-    "cover": "Games/1 on 1 Soccer/index.png",
+    "cover": "index.png",
     "start": "index1.html",
     "amount": "28MB",
     "data": [
+      {
+        "path": "./",
+        "asset": "Games/1 on 1 Soccer/index.png"
+      },
       {
         "path": "./",
         "asset": "Games/1 on 1 Soccer/index1.html"
