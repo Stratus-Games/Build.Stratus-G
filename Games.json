@@ -12,5 +12,12 @@
     "html": "Games/10 Bullets/index.html",
     "downloadable": "Yes",
     "download": "Games/10 Bullets/Download.json"
+  },
+  {
+    "name": "10-103 Null Kevin",
+    "cover": "Games/10-103 Null Kevin/icon.png",
+    "html": "Games/10-103 Null Kevin/index.html",
+    "downloadable": "Yes",
+    "download": "Games/10-103 Null Kevin/Download.json"
   }
 ]
