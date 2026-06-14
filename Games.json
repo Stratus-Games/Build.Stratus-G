@@ -19,5 +19,12 @@
     "html": "Games/10-103 Null Kevin/index.html",
     "downloadable": "Yes",
     "download": "Games/10-103 Null Kevin/Download.json"
+  },
+  {
+    "name": "1v1 Tennis",
+    "cover": "Games/ 1v1 Tennis/icon.png",
+    "html": "Games/ 1v1 Tennis/index.html",
+    "downloadable": "Yes",
+    "download": "Games/ 1v1 Tennis/Download.json"
   }
 ]
