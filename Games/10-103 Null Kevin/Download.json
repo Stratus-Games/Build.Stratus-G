@@ -1,0 +1,61 @@
+[
+  {
+    "name": "10-103 Null Kevin",
+    "cover": "Games/10-103 Null Kevin/icon.png",
+    "start": "index.html",
+    "data": [
+      {
+        "path": "./",
+        "asset": "Games/10-103 Null Kevin/index.html"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/10-103 Null Kevin/Build/103NK_Html5.json"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/10-103 Null Kevin/Build/103NK_Html5.wasm.code.unityweb"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/10-103 Null Kevin/Build/103NK_Html5.wasm.framework.unityweb"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/10-103 Null Kevin/Build/UnityLoader.js"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/10-103 Null Kevin/TemplateData/UnityProgress.js"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/10-103 Null Kevin/TemplateData/favicon.ico"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/10-103 Null Kevin/TemplateData/fullscreen.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/10-103 Null Kevin/TemplateData/progressEmpty.Dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/10-103 Null Kevin/TemplateData/progressFull.Dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/10-103 Null Kevin/TemplateData/progressLogo.Dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/10-103 Null Kevin/TemplateData/style.css"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/10-103 Null Kevin/TemplateData/webgl-logo.png"
+      }
+    ]
+  }
+]
