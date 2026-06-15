@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "name": "1 on 1 Soccer",
     "cover": "Games/1 on 1 Soccer/index.png",
     "html": "Games/1 on 1 Soccer/index.html",
@@ -7,6 +8,7 @@
     "download": "Games/1 on 1 Soccer/Download.json"
   },
   {
+    "id": "2",
     "name": "10 Bullets",
     "cover": "Games/10 Bullets/index.png",
     "html": "Games/10 Bullets/index.html",
@@ -14,6 +16,7 @@
     "download": "Games/10 Bullets/Download.json"
   },
   {
+    "id": "3",
     "name": "10-103 Null Kevin",
     "cover": "Games/10-103 Null Kevin/icon.png",
     "html": "Games/10-103 Null Kevin/index.html",
@@ -21,6 +24,7 @@
     "download": "Games/10-103 Null Kevin/Download.json"
   },
   {
+    "id": "4",
     "name": "1v1 Tennis",
     "cover": "Games/ 1v1 Tennis/icon.png",
     "html": "Games/ 1v1 Tennis/index.html",
@@ -28,6 +32,7 @@
     "download": "Games/ 1v1 Tennis/Download.json"
   },
   {
+    "id": "5",
     "name": "20 Minutes Till Dawn",
     "cover": "Games/20 Minutes Till Dawn/index.jpg",
     "html": "Games/20 Minutes Till Dawn/index.html",
@@ -35,6 +40,7 @@
     "download": "/Games/20 Minutes Till Dawn/Download.json"
   },
   {
+    "id": "6",
     "name": "Tanks 3D",
     "cover": "Games/Tanks 3D/index.png",
     "html": "Games/Tanks 3D/index.html",
@@ -42,10 +48,19 @@
     "download": "Games/Tanks 3D/Download.json"
   },
   {
+    "id": "7",
     "name": "5B",
     "cover": "Games/5B/index.png",
     "html": "Games/5B/index.html",
     "downloadable": "Yes",
     "download": "Games/5B/Download.json"
+  },
+  {
+    "id": "8",
+    "name": "8 Ball Pool",
+    "cover": "Games/8 Ball Pool/index.png",
+    "html": "Games/8 Ball Pool/index.html",
+    "downloadable": "Yes",
+    "download": "Games/8 Ball Pool/Download.json"
   }
 ]
