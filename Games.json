@@ -62,5 +62,13 @@
     "html": "Games/8 Ball Pool/index.html",
     "downloadable": "Yes",
     "download": "Games/8 Ball Pool/Download.json"
+  },
+  {
+    "id": "9",
+    "name": "A Koompas Revenge 2",
+    "cover": "Games/A Koompas Revenge 2/icon.png",
+    "html": "Games/A Koompas Revenge 2/index.html",
+    "downloadable": "Yes",
+    "download": "Games/A Koompas Revenge 2/Download.json"
   }
 ]
