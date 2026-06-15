@@ -78,5 +78,13 @@
     "html": "Games/A Koompas Revenge/index.html",
     "downloadable": "Yes",
     "download": "Games/A Koompas Revenge/Download.json"
+  },
+  {
+    "id": 11",
+    "name": "Abandoned",
+    "cover": "Games/Abandoned/index.png",
+    "html": "Games/Abandoned/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Abandoned/Download.json"
   }
 ]
