@@ -118,5 +118,13 @@
     "html": "Games/Age of War 2/index.html",
     "downloadable": "Yes",
     "download": "Games/Age of War 2/Download.json"
+  },
+  {
+    "id": "16",
+    "name": "Age of War 3",
+    "cover": "Games/Age of War 3/index.jpg",
+    "html": "Games/Age of War 3/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Age of War 3/Download.json"
   }
 ]
