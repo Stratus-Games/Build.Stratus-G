@@ -86,5 +86,13 @@
     "html": "Games/Abandoned/index.html",
     "downloadable": "Yes",
     "download": "Games/Abandoned/Download.json"
+  },
+  {
+    "id": "12",
+    "name": "Achievement Unlocked 2",
+    "cover": "Games/Achievement Unlocked 2/index.png",
+    "html": "Games/Achievement Unlocked 2/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Achievement Unlocked 2/Download.json"
   }
 ]
