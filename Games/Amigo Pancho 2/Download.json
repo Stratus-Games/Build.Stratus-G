@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Amigo Pancho 2",
+    "cover": "Games/Amigo Pancho 2/index.png",
+    "start": "index1.html",
+    "amount": "33MB",
+    "data": [
+      {
+        "path": "./",
+        "asset": "Games/Amigo Pancho 2/game.swf"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Amigo Pancho 2/index1.html"
+      }
