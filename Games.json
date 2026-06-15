@@ -142,5 +142,12 @@
     "html": "Games/Alien Hominid/index.html",
     "downloadable": "Yes",
     "download": "Games/Alien Hominid/Download.json"
+  },
+  {
+    "id": "19",
+    "name": "Amanda The Adventurer",
+    "cover": "Games/Amanda The Aventurer/index.jpg",
+    "html": "Games/Amanda The Aventurer/index.html",
+    "downloadable": "No"
   }
 ]
