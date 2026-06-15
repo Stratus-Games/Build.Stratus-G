@@ -70,5 +70,13 @@
     "html": "Games/A Koompas Revenge 2/index.html",
     "downloadable": "Yes",
     "download": "Games/A Koompas Revenge 2/Download.json"
+  },
+  {
+    "id": "10",
+    "name": "A Koompas Revenge".
+    "cover": "Games/A Koompas Revenge/icon.png",
+    "html": "Games/A Koompas Revenge/index.html",
+    "downloadable": "Yes",
+    "download": "Games/A Koompas Revenge/Download.json"
   }
 ]
