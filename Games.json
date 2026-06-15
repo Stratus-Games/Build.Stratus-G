@@ -94,5 +94,13 @@
     "html": "Games/Achievement Unlocked 2/index.html",
     "downloadable": "Yes",
     "download": "Games/Achievement Unlocked 2/Download.json"
+  },
+  {
+    "id": "13",
+    "name": "Achievement Unlocked 3",
+    "cover": "Games/Achievement Unlocked 3/index.png",
+    "html": "Games/Achievement Unlocked 3/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Achievement Unlocked 3/Download.json"
   }
 ]
