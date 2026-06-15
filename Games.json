@@ -110,5 +110,13 @@
     "html": "Games/Achievement Unlocked/index.html",
     "downloadable": "Yes",
     "download": "Games/Achievement Unlocked/Download.json"
+  },
+  {
+    "id": "15",
+    "name": "Age of War 2",
+    "cover": "Games/Age of War 2/index.png",
+    "html": "Games/Age of War 2/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Age of War 2/Download.json"
   }
 ]
