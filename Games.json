@@ -149,5 +149,13 @@
     "cover": "Games/Amanda The Aventurer/index.jpg",
     "html": "Games/Amanda The Aventurer/index.html",
     "downloadable": "No"
+  },
+  {
+    "id": "20",
+    "name": "Amigo Pancho 2",
+    "cover": "Games/Amigo Pancho 2/index.png",
+    "html": "Games/Amigo Pancho 2/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Amigo Pancho 2/Download.json"
   }
 ]
