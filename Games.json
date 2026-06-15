@@ -134,5 +134,13 @@
     "html": "Games/Age of War/index.html",
     "downloadable": "Yes",
     "download": "Games/Age of War/Download.json"
+  },
+  {
+    "id": "18",
+    "name": "Alien Hominid",
+    "cover": "Games/Alien Hominid/index.png",
+    "html": "Games/Alien Hominid/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Alien Hominid/Download.json"
   }
 ]
