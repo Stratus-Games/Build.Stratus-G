@@ -157,5 +157,13 @@
     "html": "Games/Amigo Pancho 2/index.html",
     "downloadable": "Yes",
     "download": "Games/Amigo Pancho 2/Download.json"
+  },
+  {
+    "id": "21",
+    "name": "Amigo Pancho 3",
+    "cover": "Games/Amigo Pancho 3/index.png",
+    "html": "Games/Amigo Pancho 3/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Amigo Pancho 3/Download.json"
   }
 ]
