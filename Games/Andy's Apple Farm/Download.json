@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Andy's Apple Farm",
+    "cover": "Games/Andy's Apple Farm/icon.jpg",
+    "start": "index.html",
+    "amount": "174MB",
+    "data": [
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/audio-worklet.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/fnames",
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/game.unx.part1"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/game.unx.part2"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/game.unx.part3"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/game.unx.part4"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/game.unx.part5"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/game.unx.part6"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/game.unx.part7"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/game.unx.part8"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/game.unx.part9"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/index.html"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/index.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/runner-sw.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/runner.data"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/runner.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/runner.json"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/runner.svg"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/runner.wasm"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/runnerLocal.svg"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Andy's Apple Farm/sw.js"
+      }
+    ]
+  }
+]
