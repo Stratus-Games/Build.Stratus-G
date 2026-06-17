@@ -205,5 +205,13 @@
     "html": "Games/Amorphous/index.html",
     "downloadable": "Yes",
     "download": "Games/Amorphous/Download.json"
+  },
+  {
+    "id": "27",
+    "name": "Andy's Apple Farm",
+    "cover": "Games/Andy's Apple Farm/icon.jpg",
+    "html": "Games/Andy's Apple Farm/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Andy's Apple Farm/Download.json"
   }
 ]
