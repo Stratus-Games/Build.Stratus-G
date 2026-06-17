@@ -197,5 +197,13 @@
     "html": "Games/Amigo Pancho/index.html",
     "downloadable": "Yes",
     "download": "Games/Amigo Pancho/Download.json"
+  },
+  {
+    "id": "26",
+    "name": "Amorphous",
+    "cover": "Games/Amorphous/Index.jpg",
+    "html": "Games/Amorphous/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Amorphous/Download.json"
   }
 ]
