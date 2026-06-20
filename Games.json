@@ -237,5 +237,13 @@
     "html": "Games/Arthur's Nightmare/index.html",
     "downloadable": "Yes",
     "download": "Games/Arthur's Nightmare/Download.json"
+  },
+  {
+    "id": "31",
+    "name": "Awesome Tanks 2",
+    "cover": "Games/Awesome Tanks 2/index.png",
+    "html": "Games/Awesome Tanks 2/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Awesome Tanks 2/Download.json"
   }
 ]
