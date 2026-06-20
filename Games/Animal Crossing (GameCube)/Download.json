@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Animal Crossing (GameCube)",
+    "cover": "Games/Animal Crossing (GameCube)/index.jpg",
+    "start": "index.html",
+    "amount": "40MB",
+    "data": [
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/game.iso.part1"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/game.iso.part2"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/icon-192.png"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/index.data"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/index.html"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/index.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/index.wasm"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/manifest.webmanifest"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/nipplejs.min.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/shell-postfx.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/shell-rom.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/shell-saves.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/shell-touch.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Animal Crossing (GameCube)/shell.css"
+      },
+      {
+        "path": "./fonts/",
+        "asset": "Games/Animal Crossing (GameCube)/fonts/fragment-mono-400.woff2"
+      },
+      {
+        "path": "./fonts/",
+        "asset": "Games/Animal Crossing (GameCube)/fonts/work-sans-400.woff2"
+      },
+      {
+        "path": "./fonts/",
+        "asset": "Games/Animal Crossing (GameCube)/fonts/work-sans-600.woff2"
+      },
+      {
+        "path": "./shaders/",
+        "asset": "Games/Animal Crossing (GameCube)/shaders/postfx-fs-ascii.js"
+      },
+      {
+        "path": "./shaders/",
+        "asset": "Games/Animal Crossing (GameCube)/shaders/postfx-fs-crt.js"
+      },
+      {
+        "path": "./shaders/",
+        "asset": "Games/Animal Crossing (GameCube)/shaders/postfx-fs-halftone.js"
+      },
+      {
+        "path": "./shaders/",
+        "asset": "Games/Animal Crossing (GameCube)/shaders/postfx-fs-lcd.js"
+      },
+      {
+        "path": "./shaders/",
+        "asset": "Games/Animal Crossing (GameCube)/shaders/postfx-vs.js"
+      }
+    ]
+  }
+]
