@@ -229,5 +229,13 @@
     "html": "Games/Animal Crossing (GameCube)/index.html",
     "downloadable": "Yes",
     "download": "Games/Animal Crossing (GameCube)/Download.json"
+  },
+  {
+    "id": "30",
+    "name": "Arthur's Nightmare",
+    "cover": "Games/Arthur's Nightmare/index.png",
+    "html": "Games/Arthur's Nightmare/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Arthur's Nightmare/Download.json"
   }
 ]
