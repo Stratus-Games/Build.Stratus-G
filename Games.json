@@ -221,5 +221,13 @@
     "html": "Games/Angry Birds Space/index.html",
     "downloadable": "Yes",
     "download": "Games/Angry Birds Space/Download.json"
+  },
+  {
+    "id": "29",
+    "name": "Animal Crossing (Game Cube)",
+    "cover": "Games/Animal Crossing (GameCube)/index.jpg",
+    "html": "Games/Animal Crossing (GameCube)/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Animal Crossing (GameCube)/Download.json"
   }
 ]
