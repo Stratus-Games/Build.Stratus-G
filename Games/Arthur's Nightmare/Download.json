@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Arthur's Nightmare",
+    "cover": "Games/Arthur's Nightmare/index.png",
+    "start": "index.html",
+    "amount": "63MB",
+    "data": [
+      {
+        "path": "./Build/",
+        "asset": "Games/Arthur's Nightmare/Build/UnityLoader.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Arthur's Nightmare/Build/web.asm.code.unityweb.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Arthur's Nightmare/Build/web.asm.code.unityweb.part2"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Arthur's Nightmare/Build/web.asm.framework.unityweb"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Arthur's Nightmare/Build/web.asm.memory.unityweb"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Arthur's Nightmare/Build/web.data.unityweb.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Arthur's Nightmare/Build/web.json"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Arthur's Nightmare/Build/web.data.unityweb.part2"
+      },
+      {
+        "path": "./StreamingAssets/",
+        "asset": "Games/Arthur's Nightmare/StreamingAssets/ending.mp4"
+      },
+      {
+        "path": "./StreamingAssets/",
+        "asset": "Games/Arthur's Nightmare/StreamingAssets/night1intro.mp4"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/favicon.ico"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/progressEmpty.Dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/fullscreen.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/progressEmpty.Light.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/progressFull.Dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/progressFull.Light.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/progressLogo.Dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/progressLogo.Light.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/style.css"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/UnityProgress.js"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Arthur's Nightmare/TemplateData/webgl-logo.png"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Arthur's Nightmare/index.html"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Arthur's Nightmare/index.png"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Arthur's Nightmare/manifest.json"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Arthur's Nightmare/merge.js"
+      }
+    ]
+  }
+]
