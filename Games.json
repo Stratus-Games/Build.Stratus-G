@@ -213,5 +213,13 @@
     "html": "Games/Andy's Apple Farm/index.html",
     "downloadable": "Yes",
     "download": "Games/Andy's Apple Farm/Download.json"
+  },
+  {
+    "id": "28",
+    "name": "Angry Birds Space",
+    "cover": "Games/Angry Birds Space/index.png",
+    "html": "Games/Angry Birds Space/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Angry Birds Space/Download.json"
   }
 ]
