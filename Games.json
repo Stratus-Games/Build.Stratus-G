@@ -245,5 +245,13 @@
     "html": "Games/Awesome Tanks 2/index.html",
     "downloadable": "Yes",
     "download": "Games/Awesome Tanks 2/Download.json"
+  },
+  {
+    "id": "32",
+    "name": "Awesome Tanks",
+    "cover": "Games/Awesome Tanks/index.png",
+    "html": "Games/Awesome Tanks/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Awesome Tanks/Download.json"
   }
 ]
