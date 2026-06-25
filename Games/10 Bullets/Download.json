@@ -15,7 +15,7 @@
       },
       {
         "path": "./",
-        "Games/10 Bullets/10Bullets.swf"
+        "asset": "Games/10 Bullets/10Bullets.swf"
       },
       {
         "path": "./R/",
