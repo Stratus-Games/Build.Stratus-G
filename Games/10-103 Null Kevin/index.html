@@ -12,14 +12,19 @@
 <script src="Build/UnityLoader.js"></script>
 
 <style>
-html, body {
+html,
+body{
+    margin:0;
     width:100%;
     height:100%;
-    margin:0;
     overflow:hidden;
 }
 
-.webgl-content,
+.webgl-content{
+    width:100%;
+    height:100%;
+}
+
 #unityContainer{
     width:100%;
     height:100%;
@@ -27,51 +32,59 @@ html, body {
 </style>
 
 <script>
-(async function () {
+(async function(){
 
-    console.log("Downloading split data file...");
+    console.log("Downloading split Unity data...");
 
     const [part1, part2] = await Promise.all([
-        fetch("./Build/103NK_Html5.data.unityweb.part1").then(r=>{
-            if(!r.ok) throw new Error("Missing part1");
-            return r.arrayBuffer();
-        }),
-        fetch("./Build/103NK_Html5.data.unityweb.part2").then(r=>{
-            if(!r.ok) throw new Error("Missing part2");
-            return r.arrayBuffer();
-        })
+        fetch("Build/103NK_Html5.data.unityweb.part1"),
+        fetch("Build/103NK_Html5.data.unityweb.part2")
     ]);
 
-    console.log("Merging...");
+    if(!part1.ok || !part2.ok){
+        throw new Error("Couldn't download split data.");
+    }
 
-    const mergedBlob = new Blob(
-        [part1, part2],
-        {
-            type:"application/octet-stream"
-        }
-    );
+    const [buf1, buf2] = await Promise.all([
+        part1.arrayBuffer(),
+        part2.arrayBuffer()
+    ]);
 
-    const mergedURL = URL.createObjectURL(mergedBlob);
+    console.log("Merging parts...");
 
-    console.log("Merged into memory.");
+    const merged = new Uint8Array(buf1.byteLength + buf2.byteLength);
 
-    const originalFetch = window.fetch.bind(window);
+    merged.set(new Uint8Array(buf1),0);
+    merged.set(new Uint8Array(buf2),buf1.byteLength);
 
-    window.fetch = function(resource, init){
+    const blob = new Blob([merged],{
+        type:"application/octet-stream"
+    });
+
+    const memoryURL = URL.createObjectURL(blob);
+
+    console.log("Unity data mounted:",memoryURL);
+
+    const originalFetch = window.fetch;
+
+    window.fetch = function(resource, options){
 
         let url = "";
 
-        if(resource instanceof Request)
+        if(typeof resource === "string")
+            url = resource;
+        else if(resource instanceof Request)
             url = resource.url;
-        else
-            url = String(resource);
 
-        if(url.endsWith("103NK_Html5.data.unityweb")){
-            console.log("Serving merged data from memory.");
-            return originalFetch(mergedURL);
+        if(
+            url === "memory://103NK_Html5.data.unityweb" ||
+            url.endsWith("/memory://103NK_Html5.data.unityweb") ||
+            url.endsWith("103NK_Html5.data.unityweb")
+        ){
+            return originalFetch(memoryURL, options);
         }
 
-        return originalFetch(resource, init);
+        return originalFetch(resource, options);
     };
 
     var unityInstance = UnityLoader.instantiate(
