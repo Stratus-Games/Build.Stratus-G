@@ -1,0 +1,1406 @@
+[
+  {
+    "name": "BLOODMONEY",
+    "cover": "Games/BLOODMONEY/index.jpg",
+    "start": "index.html",
+    "amount": "125MB",
+    "data": [
+      {
+        "path": "./audio/bgm/",
+        "asset": "Games/BLOODMONEY/audio/bgm/Intro.ogg"
+      },
+      {
+        "path": "./audio/bgm/",
+        "asset": "Games/BLOODMONEY/audio/bgm/Credits.ogg"
+      },
+      {
+        "path": "./audio/bgm/",
+        "asset": "Games/BLOODMONEY/audio/bgm/MACHIAVELLIAN COMPLEX.wav"
+      },
+      {
+        "path": "./audio/bgm/",
+        "asset": "Games/BLOODMONEY/audio/bgm/Music Normal.ogg"
+      },
+      {
+        "path": "./audio/bgm/",
+        "asset": "Games/BLOODMONEY/audio/bgm/Neutral Ending.ogg"
+      },
+      {
+        "path": "./audio/bgm/",
+        "asset": "Games/BLOODMONEY/audio/bgm/Music Weird.ogg"
+      },
+      {
+        "path": "./audio/bgm/",
+        "asset": "Games/BLOODMONEY/audio/bgm/Music Worst.ogg"
+      },
+      {
+        "path": "./audio/bgs/",
+        "asset": "Games/BLOODMONEY/audio/bgs/Music Weird.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/25 years without a.mp3"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/Blow1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/Ice1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/Secret Message!.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Decision.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Eek!.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Fear.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Fire.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Gun1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Gun2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Gun3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_HammerHeavy1.wav"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Hsopital.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Money.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Button.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Foghorn.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Gore.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Notification.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Speech.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Stab.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Stab2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Wrong.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/SFX_Yeek.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Cheer1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Cheer2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Cheer3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Cheer4.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Doctor.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Ending1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Ending2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Feather1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Feather2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Feather3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Feather4.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale10.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale11.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale12.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale13.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale14.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale4.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale5.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale6.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale7.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale8.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Finale9.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Gun1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Gun2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Gun3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Gun4.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Gun5.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Gun6.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Gun7.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer10.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer11.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer12.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer13.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer14.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer15.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer16.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer4.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer5.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer6.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer7.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer8.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Hammer9.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife10.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife11.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife12.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife13.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife14.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife15.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife16.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife17.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife18.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife19.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife20.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife21.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife22.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife23.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife24.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife26.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife25.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife27.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife28.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife4.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife5.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife6.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife7.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife8.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Knife9.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match10.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match11.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match12.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match13.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match14.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match15.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match16.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match4.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match5.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match6.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match7.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match8.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Match9.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle10.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle11.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle12.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle4.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle5.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle6.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle7.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle8.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Needle9.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Prompt.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors10.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors11.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors12.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors13.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors14.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors15.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors4.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors5.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors6.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors7.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors8.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Scissors9.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_ShopIntro1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_ShopIntro2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Start1.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Start2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_SuperDebug2.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_SuperDebug.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_Start3.ogg"
+      },
+      {
+        "path": "./audio/se/",
+        "asset": "Games/BLOODMONEY/audio/se/VA_SuperDebug3.ogg"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Actors.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Animations.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Armors.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Classes.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Enemies.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/CommonEvents.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Items.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Map001.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Map002.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Map003.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Map004.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Map005.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/MapInfos.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Map006.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Skills.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/States.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/System.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Tilesets.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Troops.json"
+      },
+      {
+        "path": "./data/",
+        "asset": "Games/BLOODMONEY/data/Weapons.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Actors.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Animations.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Armors.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Classes.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/CommonEvents.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Enemies.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Map002.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Map001.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Map003.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Map004.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Map005.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Items.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Map006.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Skills.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/States.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/MapInfos.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/System.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Tilesets.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Troops.json"
+      },
+      {
+        "path": "./data - Copy/",
+        "asset": "Games/BLOODMONEY/data - Copy/Weapons.json"
+      },
+      {
+        "path": "./fonts/",
+        "asset": "Games/BLOODMONEY/fonts/Brick Comic.ttf"
+      },
+      {
+        "path": "./fonts/",
+        "asset": "Games/BLOODMONEY/fonts/Comic Kids.ttf"
+      },
+      {
+        "path": "./fonts/",
+        "asset": "Games/BLOODMONEY/fonts/mplus-1m-regular.ttf"
+      },
+      {
+        "path": "./fonts/",
+        "asset": "Games/BLOODMONEY/fonts/gamefont.css"
+      },
+      {
+        "path": "./icon/",
+        "asset": "Games/BLOODMONEY/icon/icon.png"
+      },
+      {
+        "path": "./img/characters/",
+        "asset": "Games/BLOODMONEY/img/characters/$Me.png"
+      },
+      {
+        "path": "./img/menuBackgrounds/",
+        "asset": "Games/BLOODMONEY/img/menuBackgrounds/Sky.png"
+      },
+      {
+        "path": "./img/parallaxes/",
+        "asset": "Games/BLOODMONEY/img/parallaxes/StallDark.png"
+      },
+      {
+        "path": "./img/parallaxes/",
+        "asset": "Games/BLOODMONEY/img/parallaxes/Stall.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Bad Ending.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/CreditsJumpscare.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Feather NotBought.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Feather.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Gun NotBought.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Gun.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Black.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Hammer NotBought.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Hammer.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Burnt_Crying1.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Burnt_Crying2.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Burnt_Crying3.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Burnt_Shock.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Burnt_Worry.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_ChoppedEye.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_ChoppedEye2.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_ChoppedEye3.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_FuckedUp_Angry.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_FuckedUp_Crying.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_FuckedUp_FakeSmile.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_FuckedUp_Seething.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_FuckedUp_Shock.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_FuckedUp_Shouting.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_FuckedUp_Smug.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Happy_Injured.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_HoldingEye_Angry.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_HoldingEye_Crying.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_HoldingEye_AngryScared.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_HoldingEye_Scared.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_KnifeGrab.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_HoldingEye_Shock.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_KnifeGrab_2.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_KnifeGrab_2[4x2].png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Pain_Shock.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Rage_Crying.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_KnifeGrab_3.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Rage_Realization.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Rage_Horror.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Harvey_Rage_TerrorCrying.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Intro1.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Intro2.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Knife NotBought.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Knife.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Match NotBought.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Match.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Needle NotBought.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Needle.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/NeutralEnding_HarveyS.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/NeutralEnding_HarveySMK.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/NeutralEnding_Intro.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/NeutralEnding_HarveySM.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/RESIST.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Scissors NotBought.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Scissors.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Shop Close.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Shop Layout.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Shop Notification.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Shop.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Stall Layer.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Normal_Confused.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Normal_ConfusedUnharmed.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Normal_Happy.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Normal_Neutral.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Normal_PainHammer.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Normal_Shock.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Normal_ShockHammer.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Normal_Worry.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Normal_WorryHammer.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Normal_WorryInjured.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Straight_Neutral.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Straight_Scared.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Straight_ScaredHammer.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Straight_WorryHammer.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/Tyler_Straight_Worry.png"
+      },
+      {
+        "path": "./img/pictures/",
+        "asset": "Games/BLOODMONEY/img/pictures/White.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/Balloon.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/ButtonSet.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/Damage.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/GameOver.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/IconSet.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/Loading.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/MadeWithMv.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/msgimg_0.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/Shadow1.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/Splash.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/Shadow2.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/States.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/Weapons1.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/Weapons2.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/Weapons3.png"
+      },
+      {
+        "path": "./img/system/",
+        "asset": "Games/BLOODMONEY/img/system/Window.png"
+      },
+      {
+        "path": "./img/tilesets/",
+        "asset": "Games/BLOODMONEY/img/tilesets/Outside_B.png"
+      },
+      {
+        "path": "./img/titles1/",
+        "asset": "Games/BLOODMONEY/img/titles1/Title.png"
+      },
+      {
+        "path": "./img/titles2/",
+        "asset": "Games/BLOODMONEY/img/titles2/Command_1.png"
+      },
+      {
+        "path": "./img/titles2/",
+        "asset": "Games/BLOODMONEY/img/titles2/Command_0.png"
+      },
+      {
+        "path": "./img/titles2/",
+        "asset": "Games/BLOODMONEY/img/titles2/Command_2.png"
+      },
+      {
+        "path": "./img/titles2/",
+        "asset": "Games/BLOODMONEY/img/titles2/Cursor.png"
+      },
+      {
+        "path": "./img/titles2/",
+        "asset": "Games/BLOODMONEY/img/titles2/Sub_0.png"
+      },
+      {
+        "path": "./img/titles2/",
+        "asset": "Games/BLOODMONEY/img/titles2/Sub_1.png"
+      },
+      {
+        "path": "./img/titles2/",
+        "asset": "Games/BLOODMONEY/img/titles2/Sub_2.png"
+      },
+      {
+        "path": "./img/titles2/",
+        "asset": "Games/BLOODMONEY/img/titles2/Sub_3.png"
+      },
+      {
+        "path": "./img/titles2/",
+        "asset": "Games/BLOODMONEY/img/titles2/Title.png"
+      },
+      {
+        "path": "./img/variablehud/",
+        "asset": "Games/BLOODMONEY/img/variablehud/Hud_1.png"
+      },
+      {
+        "path": "./js/libs/",
+        "asset": "Games/BLOODMONEY/js/libs/iphone-inline-video.browser.js"
+      },
+      {
+        "path": "./js/libs/",
+        "asset": "Games/BLOODMONEY/js/libs/fpsmeter.js"
+      },
+      {
+        "path": "./js/libs/",
+        "asset": "Games/BLOODMONEY/js/libs/lz-string.js"
+      },
+      {
+        "path": "./js/libs/",
+        "asset": "Games/BLOODMONEY/js/libs/pixi-picture.js"
+      },
+      {
+        "path": "./js/libs/",
+        "asset": "Games/BLOODMONEY/js/libs/pixi-tilemap.js"
+      },
+      {
+        "path": "./js/libs/",
+        "asset": "Games/BLOODMONEY/js/libs/pixi.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/Aetherflow_PreloadEverything.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/Eli_BackgroundManagerPro.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/Eli_Book.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/AutopauseAtPunctuation.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/MadeWithMv.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/MAUI_RemoveOutlnes.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/MessageWindow.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/GALV_MessageBackground.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/MOG_TitlePictureCom.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/MOG_VariableHud.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/Olivia_AnimatedPictures.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/TDDP_NoFastForward.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/SRD_ShakingText.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/YEP_CoreEngine.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/YEP_ButtonCommonEvents.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/YEP_EventClickTrigger.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/YEP_EventHitboxResize.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/YEP_MessageCore.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/YEP_OptionsCore.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/YEP_PictureCommonEvents.js"
+      },
+      {
+        "path": "./js/plugins/",
+        "asset": "Games/BLOODMONEY/js/plugins/YEP_X_ExtMesPack1.js"
+      },
+      {
+        "path": "./js/",
+        "asset": "Games/BLOODMONEY/js/rpg_core.js"
+      },
+      {
+        "path": "./js/",
+        "asset": "Games/BLOODMONEY/js/main.js"
+      },
+      {
+        "path": "./js/",
+        "asset": "Games/BLOODMONEY/js/rpg_scenes.js"
+      },
+      {
+        "path": "./js/",
+        "asset": "Games/BLOODMONEY/js/plugins.js"
+      },
+      {
+        "path": "./js/",
+        "asset": "Games/BLOODMONEY/js/rpg_managers.js"
+      },
+      {
+        "path": "./js/",
+        "asset": "Games/BLOODMONEY/js/rpg_objects.js"
+      },
+      {
+        "path": "./js/",
+        "asset": "Games/BLOODMONEY/js/rpg_sprites.js"
+      },
+      {
+        "path": "./js/",
+        "asset": "Games/BLOODMONEY/js/rpg_windows.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/BLOODMONEY/manifest.json"
+      },
+      {
+        "path": "./",
+        "asset": "Games/BLOODMONEY/index.html"
+      },
+      {
+        "path": "./",
+        "asset": "Games/BLOODMONEY/index.jpg"
+      }
+    ]
+  }
+]
