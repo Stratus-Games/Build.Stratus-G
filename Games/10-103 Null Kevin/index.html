@@ -37,7 +37,7 @@ html, body {
     // 1. Register Service Worker FIRST
     // -----------------------------
     if ("serviceWorker" in navigator) {
-        await navigator.serviceWorker.register("/sw.js", {
+        await navigator.serviceWorker.register("./sw.js", {
             scope: "/"
         });
 
