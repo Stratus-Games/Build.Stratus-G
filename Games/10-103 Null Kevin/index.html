@@ -12,99 +12,39 @@
 <script src="Build/UnityLoader.js"></script>
 
 <style>
-html,
-body{
-    margin:0;
-    width:100%;
-    height:100%;
-    overflow:hidden;
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
 }
-
-.webgl-content{
-    width:100%;
-    height:100%;
+.webgl-content {
+    width: 100%;
+    height: 100%;
 }
-
-#unityContainer{
-    width:100%;
-    height:100%;
+#unityContainer {
+    width: 100%;
+    height: 100%;
 }
 </style>
 
 <script>
-(async function(){
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("sw.js");
+}
 
-    console.log("Downloading split Unity data...");
-
-    const [part1, part2] = await Promise.all([
-        fetch("Build/103NK_Html5.data.unityweb.part1"),
-        fetch("Build/103NK_Html5.data.unityweb.part2")
-    ]);
-
-    if(!part1.ok || !part2.ok){
-        throw new Error("Couldn't download split data.");
-    }
-
-    const [buf1, buf2] = await Promise.all([
-        part1.arrayBuffer(),
-        part2.arrayBuffer()
-    ]);
-
-    console.log("Merging parts...");
-
-    const merged = new Uint8Array(buf1.byteLength + buf2.byteLength);
-
-    merged.set(new Uint8Array(buf1),0);
-    merged.set(new Uint8Array(buf2),buf1.byteLength);
-
-    const blob = new Blob([merged],{
-        type:"application/octet-stream"
-    });
-
-    const memoryURL = URL.createObjectURL(blob);
-
-    console.log("Unity data mounted:",memoryURL);
-
-    const originalFetch = window.fetch;
-
-    window.fetch = function(resource, options){
-
-        let url = "";
-
-        if(typeof resource === "string")
-            url = resource;
-        else if(resource instanceof Request)
-            url = resource.url;
-
-        if(
-            url === "memory://103NK_Html5.data.unityweb" ||
-            url.endsWith("/memory://103NK_Html5.data.unityweb") ||
-            url.endsWith("103NK_Html5.data.unityweb")
-        ){
-            return originalFetch(memoryURL, options);
-        }
-
-        return originalFetch(resource, options);
-    };
-
-    var unityInstance = UnityLoader.instantiate(
-        "unityContainer",
-        "Build/103NK_Html5.json",
-        {
-            onProgress: UnityProgress
-        }
-    );
-
-})();
+var unityInstance = UnityLoader.instantiate(
+    "unityContainer",
+    "Build/103NK_Html5.json",
+    { onProgress: UnityProgress }
+);
 </script>
 
 </head>
 
 <body>
-
 <div class="webgl-content">
     <div id="unityContainer"></div>
 </div>
-
 </body>
 </html>
