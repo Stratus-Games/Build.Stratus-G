@@ -266,6 +266,7 @@
     "name": "BLOODMONEY",
     "cover": "Games/BLOODMONEY/index.jpg",
     "html": "Games/BLOODMONEY/index.html",
-    "downloadable": "Games/BLOODMONEY/Download.json"
+    "downloadable": "Yes",
+    "download": "Games/BLOODMONEY/Download.json"
   }
 ]
