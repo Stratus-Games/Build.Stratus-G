@@ -26,6 +26,14 @@
         "asset": "Games/10-103 Null Kevin/Build/UnityLoader.js"
       },
       {
+        "path": "./Build/",
+        "asset": "Games/10-103 Null Kevin/Build/103NK_Html5.data.unityweb.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/10-103 Null Kevin/Build/103NK_Html5.data.unityweb.part2"
+      },
+      {
         "path": "./TemplateData/",
         "asset": "Games/10-103 Null Kevin/TemplateData/UnityProgress.js"
       },
