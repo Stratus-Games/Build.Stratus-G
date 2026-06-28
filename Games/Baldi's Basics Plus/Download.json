@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Baldi's Basics Plus",
+    "cover": "Games/Baldi's Basics Plus/index.jpg",
+    "start": "index.html",
+    "amount": "207MB",
+    "data": [
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/BaldiPlusNew.data.part2"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/BaldiPlusNew.data.part3"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/BaldiPlusNew.data.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/BaldiPlusNew.data.part4"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/BaldiPlusNew.data.part5"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/BaldiPlusNew.framework.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/BaldiPlusNew.loader.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/BaldiPlusNew.wasm.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/Export.data.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/BaldiPlusNew.wasm.part2"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/Export.loader.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/Export.data.part2"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/Export.framework.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/Export.wasm.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/Export.wasm.part2"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Plus/Build/Export.wasm.part3"
+      },
+      {
+        "path": "./TemplateData/icons/",
+        "asset": "Games/Baldi's Basics Plus/TemplateData/icons/unity-logo-light.png"
+      },
+      {
+        "path": "./TemplateData/icons/",
+        "asset": "Games/Baldi's Basics Plus/TemplateData/icons/unity-logo-dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Baldi's Basics Plus/TemplateData/favicon.ico"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Baldi's Basics Plus/TemplateData/progress-bar-empty-dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Baldi's Basics Plus/TemplateData/progress-bar-empty-light.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Baldi's Basics Plus/TemplateData/progress-bar-full-dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Baldi's Basics Plus/TemplateData/progress-bar-full-light.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Baldi's Basics Plus/TemplateData/style.css"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Baldi's Basics Plus/TemplateData/unity-logo-dark.png"
+      },
+      {
+        "path": "./TemplateData/",
+        "asset": "Games/Baldi's Basics Plus/TemplateData/unity-logo-light.png"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Baldi's Basics Plus/index.html"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Baldi's Basics Plus/index.jpg"
+      }
+    ]
+  }
+]
