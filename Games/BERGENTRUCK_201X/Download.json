@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X",
+    "cover": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/index.png",
+    "start": "index.html",
+    "amount": "77MB",
+    "data": [
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.audio.position.worklet.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.audio.worklet.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.icon.png"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.apple-touch-icon.png"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.apple-touch-icon.png.import"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.icon.png.import"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.png"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.png.import"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/index.html"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.pck.part1"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/main.js"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/manifest.json"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.pck.part2"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.wasm"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.side.wasm.part1"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/libgodot-box2d.web.template_release.wasm32.wasm"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.side.wasm.part2"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Stratus-Games Stratus-OS-Apps main Games-BERGENTRUCK_201X/BERGENTRUCK_201X.side.wasm.part3"
+      }
+    ]
+  }
+]
