@@ -253,5 +253,13 @@
     "html": "Games/Awesome Tanks/index.html",
     "downloadable": "Yes",
     "download": "Games/Awesome Tanks/Download.json"
+  }, 
+  {
+    "id": "33",
+    "name": "BERGENTRUCK_201X",
+    "cover": "Games/BERGENTRUCK_201X/index.png",
+    "html": "Games/BERGENTRUCK_201X/index.html",
+    "downloadable": "Yes",
+    "download": "Games/BERGENTRUCK_201X/Download.json"
   }
 ]
