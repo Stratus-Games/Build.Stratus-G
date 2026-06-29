@@ -275,5 +275,13 @@
     "html": "Games/Baldi's Basics Plus/index.html",
     "downloadable": "Yes",
     "download": "Games/Baldi's Basics Plus/Download.json"
+  },
+  {
+    "id": "36",
+    "name": "Baldi's Basics Remastered",
+    "cover": "Games/Baldi's Basics Remastered/index.jpg",
+    "html": "Games/Baldi's Basics Remastered/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Baldi's Basics Remastered/Download.json"
   }
 ]
