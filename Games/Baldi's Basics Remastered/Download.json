@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Baldi's Basics Remastered",
+    "cover": "Games/Baldi's Basics Remastered/index.jpg",
+    "start": "index.html",
+    "amount": "107MB",
+    "data": [
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Remastered/Build/WebGL.data.part2"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Remastered/Build/WebGL.data.part3"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Remastered/Build/WebGL.data.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Remastered/Build/WebGL.framework.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Remastered/Build/WebGL.loader.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Remastered/Build/WebGL.wasm.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Remastered/Build/WebGL.wasm.part2"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Baldi's Basics Remastered/Build/WebGL.wasm.part3"
+      },
+      {
+        "path": "./StreamingAssets/",
+        "asset": "Games/Baldi's Basics Remastered/StreamingAssets/Subtitles_En.json"
+      },
+      {
+        "path": "./StreamingAssets/",
+        "asset": "Games/Baldi's Basics Remastered/StreamingAssets/Subtitles_Fr.json"
+      },
+      {
+        "path": "./StreamingAssets/",
+        "asset": "Games/Baldi's Basics Remastered/StreamingAssets/licenses.txt"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Baldi's Basics Remastered/index.jpg"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Baldi's Basics Remastered/index.html"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Baldi's Basics Remastered/DF.json"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "Baldi's Basics Remastered",
+  "assets": [
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/index.html",
+    "path": "./StreamingAssets/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/StreamingAssets/Subtitles_En.json",
+    "path": "./StreamingAssets/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/StreamingAssets/Subtitles_Fr.json",
+    "path": "./StreamingAssets/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/StreamingAssets/licenses.txt",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/Build/WebGL.data.part1",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/Build/WebGL.data.part2",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/Build/WebGL.data.part3",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/Build/WebGL.framework.js",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/Build/WebGL.loader.js",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/Build/WebGL.wasm.part1",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/Build/WebGL.wasm.part2",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/Build/WebGL.wasm.part3"
+  ],
+  "start": "index.html"
+}
