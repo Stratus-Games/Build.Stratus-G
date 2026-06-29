@@ -292,5 +292,13 @@
     "html": "Games/Bank Robbery/index.html",
     "downloadable": "Yes",
     "download": "Games/Bank Robbery/Download.json"
+  },
+  {
+    "id": "38",
+    "name": "Battle Ships",
+    "cover": "Games/Battle Ships/index.png",
+    "html": "Games/Battle Ships/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Battle Ships/Download.json"
   }
 ]
