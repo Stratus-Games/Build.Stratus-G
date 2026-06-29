@@ -266,7 +266,14 @@
     "name": "BLOODMONEY",
     "cover": "Games/BLOODMONEY/index.jpg",
     "html": "Games/BLOODMONEY/index.html",
+    "downloadable": "No"
+  },
+  {
+    "id": "35",
+    "name": "Baldi's Basics Plus",
+    "cover": "Games/Baldi's Basics Plus/index.jpg",
+    "html": "Games/Baldi's Basics Plus/index.html",
     "downloadable": "Yes",
-    "download": "Games/BLOODMONEY/Download.json"
+    "download": "Games/Baldi's Basics Plus/Download.json"
   }
 ]
