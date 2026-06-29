@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Bank Robbery",
+    "cover": "Games/Bank Robbery/index.png",
+    "start": "index.html",
+    "amount": "64MB",
+    "data": [
+      {
+        "path": "./Build/",
+        "asset": "Games/Bank Robbery/Build/BankRobbery.data.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Bank Robbery/Build/BankRobbery.data.part2"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Bank Robbery/Build/BankRobbery.framework.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Bank Robbery/Build/BankRobbery.wasm.part1"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Bank Robbery/Build/BankRobbery.loader.js"
+      },
+      {
+        "path": "./Build/",
+        "asset": "Games/Bank Robbery/Build/BankRobbery.wasm.part2"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Bank Robbery/index.html"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Bank Robbery/index.png"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Bank Robbery/cg-sdk.js"
+      }
+    ]
+  }
+]
