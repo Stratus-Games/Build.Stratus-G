@@ -1,0 +1,1150 @@
+[
+  {
+    "name": "Smash Remix",
+    "cover": "Games/Smash Remix/icon.png",
+    "start": "index1.html",
+    "amount": "363MB",
+    "data": [
+      {
+        "path": "./",
+        "asset": "Games/Smash Remix/icon.png"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Smash Remix/index1.html"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Smash Remix/Smash_Remix_2.0.0.z64.part1"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Smash Remix/Smash_Remix_2.0.0.z64.part2"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Smash Remix/Smash_Remix_2.0.0.z64.part4"
+      },
+      {
+        "path": "./",
+        "asset": "Games/Smash Remix/Smash_Remix_2.0.0.z64.part3"
+      },
+      {
+        "path": "./data/compression/",
+        "asset": "Emulators/EmulatorJS/data/compression/extract7z.js"
+      },
+      {
+        "path": "./data/compression/",
+        "asset": "Emulators/EmulatorJS/data/compression/extractzip.js"
+      },
+      {
+        "path": "./data/compression/",
+        "asset": "Emulators/EmulatorJS/data/compression/libunrar.js"
+      },
+      {
+        "path": "./data/compression/",
+        "asset": "Emulators/EmulatorJS/data/compression/libunrar.wasm"
+      },
+      {
+        "path": "./data/compression/",
+        "asset": "Emulators/EmulatorJS/data/compression/README.md"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/81-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/81-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/81-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/a5200-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/a5200-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/a5200-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/beetle_vb-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/beetle_vb-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/beetle_vb-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/cap32-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/cap32-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/cap32-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/cap32-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/core-README.md"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/beetle_vb-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/a5200-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/81-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/cores.json"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/crocods-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/crocods-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/crocods-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/crocods-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/desmume-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/desmume-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/desmume-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/desmume-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/desmume2015-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/desmume2015-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/desmume2015-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/dosbox_pure-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/desmume2015-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbalpha2012_cps1-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/dosbox_pure-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbalpha2012_cps1-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbalpha2012_cps1-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbalpha2012_cps1-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbalpha2012_cps2-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbalpha2012_cps2-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbalpha2012_cps2-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbalpha2012_cps2-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbneo-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbneo-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbneo-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fbneo-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fceumm-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fceumm-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fceumm-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fceumm-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fuse-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fuse-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fuse-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/fuse-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/gambatte-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/gambatte-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/gambatte-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/gambatte-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/gearcoleco-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/gearcoleco-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/gearcoleco-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/gearcoleco-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/genesis_plus_gx-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/genesis_plus_gx-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/genesis_plus_gx-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/genesis_plus_gx-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/handy-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/handy-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/handy-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/handy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mame2003-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mame2003-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mame2003-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mame2003-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mame2003_plus-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mame2003_plus-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mame2003_plus-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mame2003_plus-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_ngp-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_ngp-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_ngp-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_ngp-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_pce-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_pce-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_pce-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_pce-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_pcfx-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_pcfx-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_pcfx-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_pcfx-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_psx_hw-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_psx_hw-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_psx_hw-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_psx_hw-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_wswan-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_wswan-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_wswan-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mednafen_wswan-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/melonds-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/melonds-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/melonds-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/melonds-wasm.data"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/81.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/a5200.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/beetle_vb.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/crocods.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/cap32.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/desmume.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/desmume2015.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/dosbox_pure.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/fbalpha2012_cps1.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/fbalpha2012_cps2.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/fbneo.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/fceumm.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/fuse.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/gambatte.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/gearcoleco.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/genesis_plus_gx.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/handy.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/mame2003.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/mame2003_plus.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/mednafen_ngp.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/mednafen_pce.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/mednafen_pcfx.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/mednafen_psx_hw.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/mednafen_wswan.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/melonds.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/mgba.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/mupen64plus_next.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/nestopia.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/opera.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/parallel_n64.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/picodrive.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/pcsx_rearmed.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/ppsspp.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/prboom.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/prosystem.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/puae.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/same_cdi.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/smsplus.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/snes9x.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/stella2014.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/vice_x128.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/vice_x64.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/vice_x64sc.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/vice_xpet.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/vice_xplus4.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/vice_xvic.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/virtualjaguar.json"
+      },
+      {
+        "path": "./data/cores/reports/",
+        "asset": "Emulators/EmulatorJS/data/cores/reports/yabause.json"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mgba-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mgba-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mgba-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mgba-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mupen64plus_next-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mupen64plus_next-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mupen64plus_next-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/mupen64plus_next-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/nestopia-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/nestopia-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/nestopia-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/nestopia-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/opera-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/opera-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/opera-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/opera-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/package.json"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/parallel_n64-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/parallel_n64-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/parallel_n64-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/parallel_n64-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/pcsx_rearmed-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/pcsx_rearmed-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/pcsx_rearmed-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/pcsx_rearmed-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/picodrive-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/picodrive-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/picodrive-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/picodrive-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/ppsspp-assets.zip"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/ppsspp-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/prboom-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/prboom-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/prboom-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/prboom-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/prosystem-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/prosystem-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/prosystem-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/prosystem-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/puae-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/puae-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/puae-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/puae-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/same_cdi-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/README.md"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/same_cdi-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/same_cdi-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/same_cdi-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/smsplus-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/smsplus-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/smsplus-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/smsplus-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/snes9x-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/snes9x-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/snes9x-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/snes9x-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/stella2014-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/stella2014-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/stella2014-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/stella2014-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x128-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x128-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x128-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x128-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x64-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x64-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x64-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x64-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x64sc-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x64sc-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x64sc-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_x64sc-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xpet-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xpet-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xpet-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xpet-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xplus4-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xplus4-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xplus4-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xplus4-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xvic-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xvic-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xvic-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/vice_xvic-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/virtualjaguar-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/virtualjaguar-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/virtualjaguar-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/virtualjaguar-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/yabause-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/yabause-thread-legacy-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/yabause-thread-wasm.data"
+      },
+      {
+        "path": "./data/cores/",
+        "asset": "Emulators/EmulatorJS/data/cores/yabause-wasm.data"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/af-FR.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/ar-AR.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/ben-BEN.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/de-GER.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/el-GR.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/en-US.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/es-ES.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/fa-AF.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/hi-HI.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/it-IT.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/ja-JA.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/jv-JV.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/pt-BR.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/ko-KO.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/README.md"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/retroarch.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/ro-RO.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/ru-RU.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/tr-TR.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/vi-VN.json"
+      },
+      {
+        "path": "./data/localization/",
+        "asset": "Emulators/EmulatorJS/data/localization/zh-CN.json"
+      },
+      {
+        "path": "./data/src/",
+        "asset": "Emulators/EmulatorJS/data/src/compression.js"
+      },
+      {
+        "path": "./data/src/",
+        "asset": "Emulators/EmulatorJS/data/src/emulator.js"
+      },
+      {
+        "path": "./data/src/",
+        "asset": "Emulators/EmulatorJS/data/src/GameManager.js"
+      },
+      {
+        "path": "./data/src/",
+        "asset": "Emulators/EmulatorJS/data/src/gamepad.js"
+      },
+      {
+        "path": "./data/src/",
+        "asset": "Emulators/EmulatorJS/data/src/nipplejs.js"
+      },
+      {
+        "path": "./data/src/",
+        "asset": "Emulators/EmulatorJS/data/src/shaders.js"
+      },
+      {
+        "path": "./data/src/",
+        "asset": "Emulators/EmulatorJS/data/src/socket.io.min.js"
+      },
+      {
+        "path": "./data/src/",
+        "asset": "Emulators/EmulatorJS/data/src/storage.js"
+      },
+      {
+        "path": "./data/",
+        "asset": "Emulators/EmulatorJS/data/emulator.css"
+      },
+      {
+        "path": "./data/",
+        "asset": "Emulators/EmulatorJS/data/emulator.min.js"
+      },
+      {
+        "path": "./data/",
+        "asset": "Emulators/EmulatorJS/data/emulator.min.css"
+      },
+      {
+        "path": "./data/",
+        "asset": "Emulators/EmulatorJS/data/loader.js"
+      },
+      {
+        "path": "./data/",
+        "asset": "Emulators/EmulatorJS/data/version.json"
+      }
+    ]
+  }
+]
