@@ -300,5 +300,13 @@
     "html": "Games/Battle Ships/index.html",
     "downloadable": "Yes",
     "download": "Games/Battle Ships/Download.json"
+  },
+  {
+    "id": "39",
+    "name": "Smash Remix",
+    "cover": "Games/Smash Remix/icon.png",
+    "html": "Games/Smash Remix/index.html",
+    "downloadable": "Yes",
+    "download": "Games/Smash Remix/Download.json"
   }
 ]
